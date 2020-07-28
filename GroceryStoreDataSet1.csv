@@ -1,0 +1,20 @@
+Milk,Bread ,Buiscuit,
+Bread,Milk,Buiscuit,Cornflakes
+Bread,Tea,Bournvita,
+Jam ,Maggie,Bread,Milk
+Maggie ,Tea,Buiscuit,
+Bread,Tea,Bournvita,
+Maggie ,Tea,Cornflakes,
+Maggie ,Bread ,Tea,Buiscuit
+Jam ,Maggie,Bread,Tea
+Bread,Milk,,
+Coffee,Cheese,Buiscuit,Cornflakes
+Coffee,Cheese,Buiscuit,Cornflakes
+Coffee,Sugar,Bournvita,
+Bread,Coffee,Cheese,
+Bread,Sugar,Buiscuit,
+Coffee,Sugar,Cornflakes,
+Bread,Sugar,Bournvita,
+Bread,Coffee,Sugar,
+Bread,Coffee,Sugar,
+Tea,Milk,Milk,
